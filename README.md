@@ -64,7 +64,7 @@
 * Other Repositories
    * [MySQL Queries](https://github.com/JorgePablol/hackerrank_mysql)
    * [Python Training](https://github.com/JorgePablol/hackerrank_python3)
-   * [Stats Notes](https://jorgepablol.github.io/Stats-Notes/)
+
     
 ## Introducing Myself
    *  [Resume](#Resume-CLICK-HERE-TO-SEE-THE-FILE)
