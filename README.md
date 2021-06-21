@@ -37,6 +37,9 @@
 
 ![scara](https://user-images.githubusercontent.com/58957744/122470982-51cdb300-cf84-11eb-834c-b377f5225f61.png)
 
+## Statistics Notes and Cheatsheet
+   * [Repository Statistics Notes](https://jorgepablol.github.io/Stats-Notes/)
+   * [Repository Inferential Statistics Cheatsheet](https://jorgepablol.github.io/Hypothesis-Testing-Cheatsheet/)
 
 
 ## Visualization Bibliotheque And More
