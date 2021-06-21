@@ -98,5 +98,5 @@ You can see all the courses I took on my [linkedin](https://www.linkedin.com/in/
 ## Work Experience
 I have work experience in 2 companies:
 
-* Desansiedad (1 month): They are a company that offers anxiety treatment. I made a project for them, that was based on analyzing the data they were gathering in their google analytics, I shared the insights and they let me put the entire project in my portfolio.
+* Desansiedad (1 month): They are a company that offers anxiety treatment. I made a project for them, that was based on analyzing the data they were gathering in their google analytics, I shared the insights to them and they were able to take some decisions on their web design.
 * Partido Libertario Mx 2020 2021: They are a new organization trying to be the first libertarian party of Mexico, my work has been to analyse their data from social networks, their affiliates data and the impact of their events, the reports I do impact the decision making of the organization. At first I started proposing myself to analyse their data but now I work with them to delivery their monthly reports, and also to report the impacts of events they host.
