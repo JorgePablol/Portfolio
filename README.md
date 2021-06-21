@@ -1,6 +1,6 @@
 # Projects
 ## Social Networks Analysis and Insights for Partido Libertario Mx
-   * [Repository](https://jorgepablol.github.io/Audience-and-Affiliations-Tableau-PLibMx/)
+   * [Repository](https://jorgepablol.github.io/Social-Networks-Analysis-for-PLibMx/)
    * [Online Visualization with Power BI](https://app.powerbi.com/view?r=eyJrIjoiNzMxNmQ2OWEtNzkxZS00Y2E2LTg1MDktMTdhNzZkMTAyYzc3IiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9)
 
 ![twitter](https://user-images.githubusercontent.com/58957744/122470922-424e6a00-cf84-11eb-9137-5b5b28e8b2ad.png)
@@ -25,7 +25,7 @@
 
 
 ## Audience, Affiliations and Strategy For Partido Libertario Mx
-   * [Repository](https://github.com/JorgePablol/Audience-and-Affiliations-Tableau-PLibMx)
+   * [Repository](https://jorgepablol.github.io/Audience-and-Affiliations-Tableau-PLibMx/)
    * [Online Visualization with Tableau](https://public.tableau.com/app/profile/jorge.pablo/viz/AudienciaPlib2021/AudienciaFByAfiliados)
 
 ![afiliados](https://user-images.githubusercontent.com/58957744/122470968-4da19580-cf84-11eb-9d76-b9345bc93cc9.png)
