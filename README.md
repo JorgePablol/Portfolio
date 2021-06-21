@@ -67,14 +67,14 @@
 
     
 ## Introducing Myself
-   *  [Resume](#Resume-CLICK-HERE-TO-SEE-THE-FILE)
-   *  [My Vision As A Data Scientist](#My-Vision-As-A-Data-Scientist)
-   *  [Educational Background](#Educational-Background)
-   *  [Work Experience](#Work-Experience)
+   *  Resume
+   *  My Vision As A Data Scientist
+   *  Educational Background
+   *  Work Experience
 
 
 
-# [Introducing Myself](#Table-Of-Contents)
+# Introducing Myself
 Hello my name is Jorge Pablo I'm from Mexico and I live in Mexico too, I have a clean philosophy that is: I live my own way of living strictly respecting the others life project.
 
 What got me into data science at first was my passion for chess, I discovered I had extraordinary analytical skills when I was learning chess. What I liked from chess was the analysis and the strategy you know short-term actions directed by long-term objectives.
@@ -86,17 +86,17 @@ So I decided to start learning something that fits my personality, makes me happ
 ## [Resume CLICK HERE TO SEE THE FILE](https://drive.google.com/file/d/1ZGV03vWHM2HVHUyN1czP2298ssUCqZCY/view?usp=sharing)
 Click on the title above.
 
-## [My Vision As A Data Scientist](#Table-Of-Contents)
+## My Vision As A Data Scientist
 My vision for data science is the vision from a chess player, a chess professor and a strategy lover, that means I love to analyse the data you give me in order to generate a logic representation of the reality, I like as a professor to communicate effectively so my mates can understand what I'm saying and as a strategist the most important after the communication is the direction we will take in the long term and how our values will take an important role to choose a direction for the organization.
 
-## [Educational Background](#Table-Of-Contents)
+## Educational Background
 I studied entirely via online with the company Platzi, my grade is certification on Platzi's Data Science School, I also have on Artificial Intelligence School but I need more time to take what I learned to practice. 
 Other part of the study was based on the scraping you can see in my repositories, there I took the best books ever for data science and made a list on what are the best reads, so I read a lot on the topic, just as complement.
 I'm also certified by Platzi from their english school.
 You can see all the courses I took on my [linkedin](https://www.linkedin.com/in/jorgepablo/)
 
-## [Work Experience](#Table-Of-Contents)
+## Work Experience
 I have work experience in 2 companies:
 
-* Desansiedad (1 month): They are a company that offers anxiety treatment, I analized their entire google analytics and presented the insights to the marketing team. I did something similar like an internship there.
+* Desansiedad (1 month): They are a company that offers anxiety treatment. I made a project for them, that was based on analyzing the data they were gathering in their google analytics, I shared the insights and they let me put the entire project in my portfolio.
 * Partido Libertario Mx 2020 2021: They are a new organization trying to be the first libertarian party of Mexico, my work has been to analyse their data from social networks, their affiliates data and the impact of their events, the reports I do impact the decision making of the organization. At first I started proposing myself to analyse their data but now I work with them to delivery their monthly reports, and also to report the impacts of events they host.
