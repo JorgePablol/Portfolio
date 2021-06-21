@@ -31,15 +31,19 @@
 ![afiliados](https://user-images.githubusercontent.com/58957744/122470968-4da19580-cf84-11eb-9d76-b9345bc93cc9.png)
 
 
+## Statistics Notes and Cheatsheet
+   * [Repository Statistics Notes](https://jorgepablol.github.io/Stats-Notes/)
+   * [Repository Inferential Statistics Cheatsheet](https://jorgepablol.github.io/Hypothesis-Testing-Cheatsheet/)
+
+![Screenshot from 2021-06-21 11-45-26](https://user-images.githubusercontent.com/58957744/122798551-5648e300-d286-11eb-9167-8142a2a1fa2b.png)
+
+
 ## Web Scraping Amazon Data Science Library
    * [Repository](https://github.com/JorgePablol/Scraping-And-Viz-Data-Science-Books)
    * [Online Visualization](https://public.tableau.com/views/DataScienceLibraryViz/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
 
 ![scara](https://user-images.githubusercontent.com/58957744/122470982-51cdb300-cf84-11eb-834c-b377f5225f61.png)
 
-## Statistics Notes and Cheatsheet
-   * [Repository Statistics Notes](https://jorgepablol.github.io/Stats-Notes/)
-   * [Repository Inferential Statistics Cheatsheet](https://jorgepablol.github.io/Hypothesis-Testing-Cheatsheet/)
 
 
 ## Visualization Bibliotheque And More
