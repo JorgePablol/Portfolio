@@ -47,7 +47,7 @@
 ## Model Practice
 Practicing modeling with data from kaggle.
    * [Linear Regression](https://jorgepablol.github.io/Linear-Regression/)
-   * [Logistic Regression](https://jorgepablol.github.io/Logistic-Regression/
+   * [Logistic Regression](https://jorgepablol.github.io/Logistic-Regression/)
    * [KNN And Random Forest Classifier](https://jorgepablol.github.io/KNN-and-Random-Forest-Classifier/)
    * [Random Forest Regressor](https://jorgepablol.github.io/Random-Forest-Regressor/)
    * [K- Means](https://jorgepablol.github.io/K-Means/)
