@@ -52,6 +52,9 @@ Practicing modeling with data from kaggle.
    * [Random Forest Regressor](https://jorgepablol.github.io/Random-Forest-Regressor/)
    * [K- Means](https://jorgepablol.github.io/K-Means/)
 
+![Screenshot from 2021-06-30 13-43-25](https://user-images.githubusercontent.com/58957744/124014538-437e8e80-d9a9-11eb-8805-cc5c9bf1f8a6.png)
+
+
 
 ## Visualization Bibliotheque And More
 ### Click on the title to watch the visualization/repository in your browser
