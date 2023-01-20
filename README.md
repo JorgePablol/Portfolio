@@ -1,5 +1,5 @@
 ## Resume In English
-##### [Resume In English](https://drive.google.com/file/d/1WljzaYot8zYKHE6_HJ2hBVKa4b7B2RVY/view?usp=sharing)
+  * [Resume In English](https://drive.google.com/file/d/1WljzaYot8zYKHE6_HJ2hBVKa4b7B2RVY/view?usp=sharing)
 
 # Projects (See my github for more work)
 ## Social Networks Analysis and Insights for Partido Libertario Mx
