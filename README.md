@@ -1,7 +1,7 @@
 # Jorge Pablo | Data Engineer
 
 # Resume In English
-  * [Resume In English](https://drive.google.com/file/d/1veoOKWfNv8aMer3d25EycjpJCs4XTKU4/view?usp=share_link)
+  * [Resume In English](https://drive.google.com/file/d/1veoOKWfNv8aMer3d25EycjpJCs4XTKU4/view?usp=sharing)
 
 # Projects (See my github for more work)
 ## Social Networks Analysis and Insights for Partido Libertario Mx
